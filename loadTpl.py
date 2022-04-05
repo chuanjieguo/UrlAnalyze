@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021-11-08 16:46
-# @Author  : sanclark
-# @Mail    : sanclark@qq.com
+# @Author  : chuanjieguo
+# @Mail    : chuanjieguo@139.com
 
 import pickle
 from HostUtil import getHost

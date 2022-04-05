@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021-06-21 14:42
-# @Author  : sanclark
-# @Mail    : sanclark@qq.com
+# @Author  : chuanjieguo
+# @Mail    : chuanjieguo@139.com
 import redis
 import getopt
 import sys

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021-06-30 14:53
-# @Author  : sanclark
-# @Mail    : sanclark@qq.com
+# @Author  : chuanjieguo
+# @Mail    : chuanjieguo@139.com
 import os
 import subprocess
 

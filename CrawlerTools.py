@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021-05-18 17:13
-# @Author  : sanclark
-# @Mail    : sanclark@qq.com
+# @Author  : chuanjieguo
+# @Mail    : chuanjieguo@139.com
 from selenium import webdriver
 from enum import Enum
 from selenium.common.exceptions import TimeoutException
